@@ -10,8 +10,8 @@ Built with
 What I learned
 
 #Links
-Solution URL: solution URL here
-Live Site URL: live site URL here
+Solution URL: https://harmonious-kitsune-3f9c96.netlify.app
+Live Site URL: https://harmonious-kitsune-3f9c96.netlify.app
 
 #My process
 Built with
